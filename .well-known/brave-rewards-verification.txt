@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: danielversiane13.github.io
+Token: 9c797094ba42769f4f464f751e405c30ad838a3ca7c504999e8211978f6eb9fe
